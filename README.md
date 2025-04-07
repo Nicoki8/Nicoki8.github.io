@@ -6,4 +6,5 @@
 3. Setelah itu jika Ingin Menghapus data yang telah diinput Silahkan meng-klik tombol "Hapus Baris Terakhir" atau "Hapus Semua"
 4. Jika ingin menyimpan transaksi yang telah ada silahkan meng-klik tombol "Simpan Pdf" dan file akan otomatis download dan masuk kedalam file manager pada perangkat anda.
 
+jika ingin menghubungi melewati email lewat dari nico.wijaya2005@gmail.com
 
